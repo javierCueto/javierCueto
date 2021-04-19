@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=javiercueto&layout=compact&theme=buefy
+![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=javiercueto&hide=contribs,prs&theme=buefy&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiercueto&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
 
 
 <!---
