@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 ![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=javiercueto&hide=contribs,prs&theme=buefy&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiercueto&layout=compact&theme=buefy)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiercueto&layout=compact&theme=buefy)
 
 
 <!---
