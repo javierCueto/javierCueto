@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS Development
 
 ![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=javiercueto&hide=contribs,prs&theme=buefy&show_icons=true) 
-![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiercueto&layout=compact&theme=buefy)
+![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiercueto&theme=buefy)
 
 
 <!---
